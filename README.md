@@ -1,1 +1,1 @@
-EDA (advertising data analyst)
+EDA Project
